@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(0, 14, 19);
+  }
+#navbarSupportedContent a {
+    float: right;
+    padding: 12px;
+    color: rgb(12, 0, 0);
+    text-decoration: none;
+    font-size: 17px;
+    background: lavender;
+    border:  2px solid lightcoral;
+  }
+.jumbotron{
+    background-color: coral;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, .2), 0 10px 10px rgba(0, 0, 0, .2) ;
+}
+.nav-item dropdown{
+    border:2px solid black;
+    font-weight: bold;
+}
+.navbar-brand{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    border: 4px solid black;
+    background: chocolate;
+    padding: 2px 2px 2px 2px;
+}
+.form-inline my-2 my-lg-0{
+    font-style: italic;
+    font-weight: bolder;
+}
